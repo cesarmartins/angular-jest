@@ -1,2 +1,2 @@
 # angular-jest
-aplição de angular teste unitario com Jest
+aplição de angular com teste unitario com Jest
